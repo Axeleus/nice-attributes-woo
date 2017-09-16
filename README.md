@@ -1,4 +1,3 @@
-# nice-attributes-woo
+#Nice Attributes
 
-Plugin Name: Nice Attributes
-Description: Can make your WooCommerce site a little bit better
+#Can make your WooCommerce site a little bit better

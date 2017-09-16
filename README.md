@@ -1,3 +1,3 @@
-#Nice Attributes
+# Nice Attributes
 
-#Can make your WooCommerce site a little bit better
+# Can make your WooCommerce site a little bit better
